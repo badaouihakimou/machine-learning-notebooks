@@ -7,7 +7,6 @@ exercices.
 La numérotation reprend celle des vidéos, pour retrouver facilement la
 correspondance.
 
-**Dépôt en construction**, mis à jour au fil du parcours.
 ## Contenu
 
 | Notebook | Sujet |
