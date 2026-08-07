@@ -12,15 +12,36 @@ correspondance.
 ## Contenu
 
 | Notebook | Sujet |
-|---|---|
-| 02 | Variables et fonctions |
-| 14 | Matplotlib : les bases |
-| 15 | Matplotlib : les graphiques du machine learning |
-| 16 | SciPy : interpolation, optimisation, signal, images |
-| 17 | Pandas : analyse du jeu de données Titanic |
-
-À venir : structures de contrôle, listes et dictionnaires, NumPy, Seaborn,
-scikit-learn.
+|---|---|---|
+| 02 | Variables et fonctions | 
+| 03 | Structures de contrôle | 
+| 04 | Structures de données : listes et tuples | 
+| 05 | Dictionnaires | 
+| 06 | List comprehension | 
+| 07 | Built-in functions | 
+| 08 | Modules de base | 
+| 09 | Programmation orientée objet | 
+| 10 | NumPy : les bases | 
+| 11 | NumPy : indexing, slicing, boolean indexing | 
+| 12 | NumPy : maths et statistiques | 
+| 13 | NumPy : broadcasting | 
+| 14 | Matplotlib : les bases | 
+| 15 | Matplotlib : les graphiques du machine learning | 
+| 16 | SciPy : interpolation, optimisation, signal, images | 
+| 17 | Pandas : analyse du jeu de données Titanic | 
+| 18 | Pandas et séries temporelles | 
+| 19 | Seaborn | 
+| 20 | Scikit-learn : les bases | 
+| 21 | Scikit-learn : model selection | 
+| 22 | Scikit-learn : pre-processing | 
+| 23 | Scikit-learn : feature selection | 
+| 24 | Scikit-learn : apprentissage non supervisé | 
+| 25 | Scikit-learn : ensemble learning | 
+| 27 | Exploratory data analysis | 
+| 28 | Prétraitement de données | 
+| 29 | Modélisation | 
+| — | Bonus : pipelines composites | 
+| — | Bonus : imputers scikit-learn | 
 
 ## Ce que ces notebooks ajoutent au cours
 
