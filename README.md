@@ -43,11 +43,13 @@ exemples documentés et vérifiés chiffres à l'appui :
 ## Utilisation
 
 ```bash
-git clone https://github.com/VOTRE_PSEUDO/machine-learning-notebooks.git
+git clone https://github.com/badaouihakimou/machine-learning-notebooks.git
 cd machine-learning-notebooks
 pip install -r requirements.txt
 jupyter notebook
 ```
+
+
 
 Chaque notebook est autonome et s'exécute de haut en bas. Les cellules doivent
 être lancées dans l'ordre : plusieurs sections réutilisent des variables
