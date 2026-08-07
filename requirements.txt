@@ -1,0 +1,19 @@
+# Calcul et données
+numpy
+pandas
+scipy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine learning et images
+scikit-learn
+scikit-image
+
+# Lecture de fichiers Excel
+openpyxl
+xlrd
+
+# Environnement
+jupyter
