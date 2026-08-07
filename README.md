@@ -1,4 +1,4 @@
-# Machine Learning — notebooks d'apprentissage
+# Machine Learning, notebooks d'apprentissage
 
 Notes prises en suivant la formation [Machine Learnia](https://www.youtube.com/@MachineLearnia),
 réécrites avec mes propres explications, les pièges rencontrés en chemin, et des
@@ -14,10 +14,10 @@ correspondance.
 | Notebook | Sujet |
 |---|---|
 | 02 | Variables et fonctions |
-| 14 | Matplotlib — les bases |
-| 15 | Matplotlib — les graphiques du machine learning |
-| 16 | SciPy — interpolation, optimisation, signal, images |
-| 17 | Pandas — analyse du jeu de données Titanic |
+| 14 | Matplotlib : les bases |
+| 15 | Matplotlib : les graphiques du machine learning |
+| 16 | SciPy : interpolation, optimisation, signal, images |
+| 17 | Pandas : analyse du jeu de données Titanic |
 
 À venir : structures de contrôle, listes et dictionnaires, NumPy, Seaborn,
 scikit-learn.
@@ -28,7 +28,7 @@ Chaque notebook suit le même schéma : on écrit la version naïve, on regarde 
 qui cloche, on corrige. Les erreurs sont volontairement conservées, parce que
 c'est en voyant un résultat raté qu'on comprend ce que fait chaque paramètre.
 
-Une attention particulière est portée aux **erreurs silencieuses** — celles qui
+Une attention particulière est portée aux erreurs silencieuses celles qui
 ne lèvent aucun message et produisent un résultat crédible mais faux. Quelques
 exemples documentés et vérifiés chiffres à l'appui :
 
@@ -66,4 +66,4 @@ Jeux de données : Iris et Breast Cancer via scikit-learn, Titanic
 
 ## Licence
 
-MIT — voir le fichier `LICENSE`.
+MIT : voir le fichier `LICENSE`.
