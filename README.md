@@ -100,14 +100,6 @@ COVID-19 des notebooks 27 à 29 est disponible sur
 [Kaggle](https://www.kaggle.com/datasets/einsteindata4u/covid19) et doit être
 téléchargé séparément (`dataset.xlsx`).
 
-## Sources
-
-Formation suivie : [Machine Learnia](https://www.youtube.com/@MachineLearnia)
-par Guillaume Saint-Cirgue.
-
-Jeux de données : Iris, Digits, Diabetes et Breast Cancer via scikit-learn ;
-Titanic (données publiques) ; images de démonstration de scikit-image ; dataset
-COVID-19 de l'Hôpital Israelita Albert Einstein via Kaggle.
 
 ## Licence
 
