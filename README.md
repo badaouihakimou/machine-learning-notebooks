@@ -42,6 +42,7 @@ correspondance.
 | 27 | Projet COVID-19 : exploratory data analysis |
 | 28 | Projet COVID-19 : prétraitement de données |
 | 29 | Projet COVID-19 : modélisation |
+| 30 | Exercices pratiques : Python, NumPy, Pandas, trading |
 
 Les notebooks 27 à 29 forment un projet complet de bout en bout sur des
 données médicales réelles (diagnostic du COVID-19, Hôpital Israelita Albert
@@ -66,7 +67,7 @@ exemples documentés et vérifiés chiffres à l'appui :
 - une valeur par défaut mutable qui fait qu'une fonction se souvient de ses
   appels précédents
 - une fuite d'information silencieuse quand on normalise avant de séparer
-  train et test — le score paraît excellent, puis s'effondre en production
+  train et test le score paraît excellent, puis s'effondre en production
 
 Chaque notebook se termine par un mémo récapitulatif et des exercices
 corrigés séparément.
